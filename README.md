@@ -1,0 +1,2 @@
+# Delta-Hedging-Option-Pricing-Analysis-BANK-NIFTY-Derivatives-Trading-Strategies-Term-Paper
+Priced European call options on the BANK NIFTY Index using Black–Scholes and 20-step CRR binomial models (0.89% convergence) and built a dynamic delta-hedging simulation on 1,500+ days of market data Quantified hedging performance across a 5-layer empirical framework- measuring Gamma P&amp;L from volatility mismatch 
